@@ -1,0 +1,29 @@
+1. Instalacion de Python:
+
+Ve a: https://www.python.org/downloads/
+
+Descarga la última versión de Python.
+
+Ejecuta el instalador y marca la casilla: ✅ "Add Python to PATH".
+
+2. Ejecutar Visual Studio Code
+
+Abrir el Proyecto "API-Productos"
+
+Hacer click en el terminal (se encuentra en la barra superior de Visual Studio Code)
+
+Luego: Ingresar en el terminal los comandos de instalacion
+
+pip install Flask
+pip install Flask-SQLAlchemy
+pip install Flask-CORS
+pip install psycopg2-binary
+
+luego de eso ejecutamos el API
+
+cd src
+
+python app.py
+
+
+
